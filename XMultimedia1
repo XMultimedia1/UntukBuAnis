@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+ <html>
+<head>
+  <script>
+alert("Assalamualaikum Bu Anis")
+alert("")
+alert("")
+  </script>
+<title>
+SELAMAT HARI GURU BU ANIS
+</title>
+
+<script type="text/javascript">
+flag=1
+function f1()
+{
+    alert("Terimakasih Bu:)")
+}
+
+</script>
+
+</head>
+<body>
+<h1> SELAMAT HARI GURU BU ANIS <h1>
+<h1 style="#">Apa Bu Anis Suka Kejutan Ini?</h1>
+<div id="By" style="position:absolute; left:64px; top:370px; width:210px;
+height:210px;">
+<input type="button" value=" Suka! " onClick="f1()" />
+</div>
+<div ID="Bn" style="position:absolute; left:166px; top:370px; width:210px; height:210px;">
+<input type="button" value=" Suka Banget! " onClick="f1()" />
+</div>
+
+</body>
+</html>
